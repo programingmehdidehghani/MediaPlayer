@@ -5,6 +5,6 @@
 + Retrofit
 + DI = Hilt
 
+![Screenshot_20230723-123549_MediaPlayerSample](https://github.com/programingmehdidehghani/MediaPlayer/assets/74426462/d0ca4855-23f2-4f70-855b-3bea0ce89f9e)
 
-![Screenshot_20230723-123549_MediaPlayerSample](https://github.com/programingmehdidehghani/MediaPlayer/assets/74426462/dd51cc65-1ebb-4559-892a-81a9cf673532)
 
