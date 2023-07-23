@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.mediaplayersample.app-mergeDebugResources-3:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/masoud/Downloads/RadiationMonitor-master/caches/transforms-3/50e77c2e7241ffdffd48fbd030c649c1/transformed/appcompat-1.6.1/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

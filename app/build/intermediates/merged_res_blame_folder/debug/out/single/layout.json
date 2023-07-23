@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.mediaplayersample.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.example.mediaplayersample.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mediaplayersample.app-mergeDebugResources-4:/layout/fragment_online.xml",
+        "source": "com.example.mediaplayersample.app-main-7:/layout/fragment_online.xml"
+    },
+    {
+        "merged": "com.example.mediaplayersample.app-mergeDebugResources-4:/layout/items_media.xml",
+        "source": "com.example.mediaplayersample.app-main-7:/layout/items_media.xml"
+    },
+    {
+        "merged": "com.example.mediaplayersample.app-mergeDebugResources-4:/layout/layout_splash_activity_main.xml",
+        "source": "com.example.mediaplayersample.app-main-7:/layout/layout_splash_activity_main.xml"
+    },
+    {
+        "merged": "com.example.mediaplayersample.app-mergeDebugResources-4:/layout/fragment_offline.xml",
+        "source": "com.example.mediaplayersample.app-main-7:/layout/fragment_offline.xml"
+    },
+    {
+        "merged": "com.example.mediaplayersample.app-mergeDebugResources-4:/layout/items_network_media.xml",
+        "source": "com.example.mediaplayersample.app-main-7:/layout/items_network_media.xml"
+    },
+    {
+        "merged": "com.example.mediaplayersample.app-mergeDebugResources-4:/layout/activity_play_media_actvity.xml",
+        "source": "com.example.mediaplayersample.app-main-7:/layout/activity_play_media_actvity.xml"
+    }
+]
